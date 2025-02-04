@@ -1,0 +1,5 @@
+streamlit
+pickle
+xgboost
+pandas
+numpy
