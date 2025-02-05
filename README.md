@@ -17,7 +17,7 @@ Streamlit (Web App)
 ## How to used:
 **Training process** of the model is documented in a Jupyter Notebook, which is available in this repository. [click here](https://github.com/RadhapyariDevi/Binary-Mushroom-Classification/blob/main/mushroom%20_classification_model.ipynb)
   
-**Trained Model** used in the web app is documented in a pickle file. [click here](https://github.com/RadhapyariDevi/Binary-Mushroom-Classification/blob/main/xgboost_model.pkl)
+**Trained Model** used in the web app is saved as a pickle file from the jupyter notebook above, this pickle file is available in this repository. [Here](https://github.com/RadhapyariDevi/Binary-Mushroom-Classification/blob/main/xgboost_model.pkl)
 
 **Clone the Repository**
 
