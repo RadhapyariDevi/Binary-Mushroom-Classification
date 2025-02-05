@@ -65,7 +65,7 @@ if(page == "Home"):
     st.subheader("Project Overview")
     st.write("""
     This project showcases a machine learning model trained to identify whether a mushroom is edible or poisonous based on its physical characteristics. 
-    The model utilizes **31M+ mushroom dataset from Kaggle**, which includes key features like color, size, and shape, to make accurate predictions. 
+    The model utilizes **3+ million mushroom datas from Kaggle**, which includes key features like color, size, and shape, to make accurate predictions. 
     Trained using **XGBoost**, the model achieves an impressive **98.4% accuracy**.
 
     As a new learner in **ML/AI**, I built this project to explore how machine learning can be applied to real-world problems.
