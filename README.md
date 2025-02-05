@@ -15,7 +15,7 @@ Matplotlib & Seaborn (Visualization) \
 Streamlit (Web App) 
 
 ## How to used:
-**Training process** of the model is documented in a Jupyter Notebook, which is available in this repository. [clich here](https://github.com/RadhapyariDevi/Binary-Mushroom-Classification/blob/main/mushroom%20_classification_model.ipynb)
+**Training process** of the model is documented in a Jupyter Notebook, which is available in this repository. [click here](https://github.com/RadhapyariDevi/Binary-Mushroom-Classification/blob/main/mushroom%20_classification_model.ipynb)
   
 **Trained Model** used in the web app is documented in a pickle file. [click here](https://github.com/RadhapyariDevi/Binary-Mushroom-Classification/blob/main/xgboost_model.pkl)
 
